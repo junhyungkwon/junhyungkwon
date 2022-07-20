@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <h4 align="center">Platforms & Languages<br>
   <br>Stay hungry Stay foolish 🌱 항상 성장하는 FE 개발자가 되자 </h4>
 <p align="center">
-<br><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=apple&logoColor=white"/>  <img src="https://img.shields.io/badge/css-FA7343?style=for-the-badge&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/react-orange?style=for-the-badge&logo=apple&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=apple&logoColor=white"/>  <img src="https://img.shields.io/badge/css-FA7343?style=for-the-badge&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=apple&logoColor=white"/>  <img src="https://img.shields.io/badge/react-orange?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 <h4 align="center">
