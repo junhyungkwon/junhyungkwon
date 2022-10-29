@@ -1,4 +1,3 @@
-Jun/ README.md
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jun&fontSize=90&fontColor=ffffff&fontAlignY=40)
 
 <!--
