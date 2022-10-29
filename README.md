@@ -2,7 +2,7 @@ Jun/ README.md
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jun&fontSize=90&fontColor=ffffff&fontAlignY=40)
 
 <!--
-**Do-hyun-Kim/Do-hyun-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**junhyungkwon/junhyungkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
