@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 <h4 align="center">Platforms & Languages<br>
   <br>Stay hungry Stay foolish 🌱 항상 성장하는 FE 개발자가 되자 </h4>
 <p align="center">
-<br><img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=apple&logoColor=white"/>  <img src="https://img.shields.io/badge/css-FA7343?style=for-the-badge&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=apple&logoColor=white"/>  <img src="https://img.shields.io/badge/react-orange?style=for-the-badge&logo=apple&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
 <h4 align="center">
 🛠 Tools ⚒
 </h4>
 <div align="center">
- <img src="https://img.shields.io/badge/Git-orangered?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Zeplin-yellow?style=flat-square&logo=Zeplin&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Git-orangered?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
 </div><br>
   
   <h4 align="center">🐣 Me 🐣</h4>
