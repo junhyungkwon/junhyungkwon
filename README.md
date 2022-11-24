@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🛠 Tools ⚒
 </h4>
 <div align="center">
- <img src="https://img.shields.io/badge/Git-orangered?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Git-orangered?style=flat-square&logo=Git&logoColor=white"/> <img ![Visual Studio Code]<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </div><br>
   
   <h4 align="center">🐣 Me 🐣</h4>
